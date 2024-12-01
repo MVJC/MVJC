@@ -148,6 +148,10 @@ img {
   border-radius: 50%;
   margin-bottom: 1rem;
 }
+.extras-content .tagline {
+	color: #ffffff; /* Replace with your desired color */
+	
+}
 
 .extras-content .heading {
   color: var(--third-color);
